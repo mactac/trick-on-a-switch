@@ -43,8 +43,8 @@
 -- These times and stick movements are set up for MY rates.   You will have to adjust
 -- them to suit your own rates- there is very little chance that these values will work
 -- for you.
--- If you want to flip 180 degrees, wou will want to look at your degrees/second of your 
--- rates and divide to find how long the stick should bbe held.  For example, if you are 
+-- If you want to flip 180 degrees, you will want to look at your degrees/second of your 
+-- rates and divide to find how long the stick should be held.  For example, if you are 
 -- set to 800 degrees per second for your pitch and want to flip 180, 180 divided by 800 
 -- equals 0.225 seconds if you use full stick throw ( which is a value of 1024).  Times
 -- in open tx are in 10ms increments, so .225s = 225ms = a time value of 22 or 23.
